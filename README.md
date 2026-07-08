@@ -8,8 +8,8 @@ This is a simple through-hole soldering project, perfect for
 - learning binary counting
 - building a fun, DIY, desk gadget
 
-Please see the [Bill of Materials](https://github.com/nickthenlec/3bitcounter/blob/main/3bitcounter_1_2_bom.html) for components needed to assemple the project.  The project requires a 5V power source.
-Optionally, sockets may be used when installing IC.
+Please see the [Bill of Materials](https://github.com/nickthenlec/3bitcounter/blob/main/3bitcounter_1_2_bom.html) for components needed to assemble the project.  The project requires a 5V power source.
+Optionally, sockets may be used when installing ICs.
 
 How it works:
 - the 555 timer IC controls the rate of adding the bits
