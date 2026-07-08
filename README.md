@@ -17,4 +17,4 @@ How it works:
 - the CD4511 chip takes the 3 bit binary number and displays it as a decimal number on the 7-segment LED
 - when running, the display will cycle continuously from 0-7 in Binary and Decimal
 
-The PCB can be created using the zip file.  We recommend using the link at PCBWay if you would like to support the project.
+The PCB can be created using the [zip file](https://github.com/nickthenlec/3bitcounter/blob/main/3bitcounter_1_2_.zip).  We recommend using the link at PCBWay if you would like to support the project.
