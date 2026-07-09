@@ -24,7 +24,7 @@ PCB and components
 https://github.com/nickthenlec/3bitcounter/blob/main/3bitcounter_1_2_pcb_and_components.jpg
 
 Working project after assembly
-https://github.com/nickthenlec/3bitcounter/blob/main/3bitcounter_1_2.mp4
+https://youtu.be/GpJ4ZgZcy04
 
 [NE555 Data Sheet](https://www.ti.com/lit/ds/symlink/ne555.pdf?ts=1783609782901&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FNE555)
 
