@@ -18,3 +18,8 @@ How it works:
 - when running, the display will cycle continuously from 0-7 in Binary and Decimal
 
 The PCB can be created using the [zip file](https://github.com/nickthenlec/3bitcounter/blob/main/3bitcounter_1_2_.zip).  We recommend using the link at PCBWay if you would like to support the project.
+
+PCB and components
+https://github.com/nickthenlec/3bitcounter/blob/main/3bitcounter_1_2_pcb_and_components.jpg
+
+Working project after assembly
